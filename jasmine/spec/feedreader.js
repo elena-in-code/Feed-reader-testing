@@ -100,8 +100,8 @@ $(function() {
         });
 
         it('Minimum One feed loaded when loadFeed called ', function (done) { 
-            expect(feedEntry.length).toBeGreaterThan(0);
             done();
+            expect(feedEntry.length).toBeGreaterThan(0);
         });
     });
 
