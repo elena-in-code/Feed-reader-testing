@@ -23,8 +23,8 @@ Bottom of the application: Jasmine test <br/>
 
 ### Acknowledgments:
 Thanks to: <br/>
-https://github.com/BycorSanchez/feed-reader-test/blob/master/jasmine/spec/feedreader.js <br/>
-https://github.com/HeshamHejazy/FeedReader/blob/master/jasmine/spec/feedreader.js <br/>
-https://github.com/ThanCodes/udacity-feed-reader-testing/blob/master/jasmine/spec/feedreader.js <br/>
-https://github.com/jamestownsend/fend_feedreader/blob/master/jasmine/spec/feedreader.js <br/>
+https://github.com/BycorSanchez/feed-reader-test <br/>
+https://github.com/HeshamHejazy/FeedReader <br/>
+https://github.com/ThanCodes/udacity-feed-reader-testing <br/>
+https://github.com/jamestownsend/fend_feedreader <br/>
 for sharing their code for the rest to get inspiration <br/>
